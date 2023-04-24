@@ -10,6 +10,7 @@
                     placeholder="Name" name="name">
        </div>
    </div>
+
    <div class="col-sm-6">
        <!-- text input -->
        <div class="form-group">
@@ -19,6 +20,7 @@
        </div>
    </div>
 </div>
+
 <div class="row custom-padding">
    <div class="col-sm-6">
        <!-- text input -->
@@ -29,7 +31,6 @@
        </div>
    </div>
 </div>
-
 
 <div class="row custom-padding">
    <div class="col-sm-6">
